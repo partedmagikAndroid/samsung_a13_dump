@@ -1,0 +1,14 @@
+# a13nsxx-user 13 TP1A.220624.014 A135FXXU3CWB9 release-keys
+- manufacturer: samsung
+- platform: universal3830
+- codename: a13
+- flavor: a13nsxx-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: A135FXXU3CWB9
+- tags: release-keys
+- fingerprint: samsung/a13nsxx/a13:13/TP1A.220624.014/A135FXXU3CWB9:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a13nsxx-user-13-TP1A.220624.014-A135FXXU3CWB9-release-keys
+- repo: samsung_a13_dump
