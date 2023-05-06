@@ -1,0 +1,10 @@
+# rscmgr rc file
+
+on property:sys.readahead.resource=1
+    readahead /data/app/Notes40_Removable/Notes40_Removable.apk --fully
+
+on property:sys.readahead.resource=2
+    readahead /system/app/HoneyBoard/HoneyBoard.apk --fully
+    readahead /system/app/HoneyBoard/oat/arm/HoneyBoard.odex --fully
+    readahead /system/app/HoneyBoard/oat/arm/HoneyBoard.vdex --fully
+    setprop sys.readahead.resource 0
